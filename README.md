@@ -28,4 +28,8 @@ In this project, our aim is to predict if the Falcon 9 first stage will land suc
 5- Week5
   * [Final Representation](https://github.com/dilanclk/IBM-Data-Science-Capstone--SpaceX/tree/main/Final%20Presentation)
 
+## Certificate
+[**Click Here to Check My Certificate**](https://coursera.org/share/d3281854bdcb73c6300790d61fa6aa83)
 
+
+![cert](https://user-images.githubusercontent.com/79597828/171801445-8eefa45f-2f26-46cd-8914-9f3fa5d91030.png)
